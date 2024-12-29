@@ -1,1 +1,2 @@
-# SECP1513-TECHNOLOGY-INFORMATION-SYSTEM-
+# SECP1513-TECHNOLOGY-INFORMATION-SYSTEM
+This course introduces students to information systems and technology (IS/IT) and their applications at home and work. Topics include hardware, software, networks, and communication. Students will gain basic PC installation and productivity tool skills through lab work. Industry visits and talks provide insights into real working environments and foster university-industry engagement. Students will also explore IT career requirements and job specifications.
